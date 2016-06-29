@@ -16,7 +16,7 @@ Our goal is this:
 3. The text field should be 20 pts from the left and right of its container view, and 30 points from the top.
 
   ##ScreenShot
-  ![Alt text](screenshot.png?raw=true "Optional Title")
+  ![Alt text](https://raw.githubusercontent.com/learn-co-curriculum/autolayout-calc/master/screenshot.png "Optional Title")
 
 After you're done, check out how it looks on various devices and in various orientations!
 
